@@ -1,4 +1,4 @@
-# CLUES_RNAseq
+# CLUES-RNAseq
 A repo for storing the code I used to analyze clinical and RNA-seq data from the CLUES cohort as part of my rotation project in the Sirota Lab
 
 Descriptions:
